@@ -1,0 +1,10 @@
+{
+  "name": "HELLO KITTY + others",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "COMPATIBLE WITH v45",
+  "dependencies": [
+    "femboytv-LethalPosters-1.2.0",
+    "femboytv-LethalPaintings-1.2.0"
+  ]
+}
